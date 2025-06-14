@@ -1,0 +1,25 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Streamlit config
+.streamlit/
+
+# Excel temporary files
+~$*.xlsx
